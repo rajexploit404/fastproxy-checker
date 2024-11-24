@@ -32,7 +32,7 @@ Make sure you have Python 3 and the necessary libraries installed before running
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/fastproxy-checker.git
+   git clone https://github.com/rajexploit404/fastproxy-checker.git
    cd fastproxy-checker
    ```
 
