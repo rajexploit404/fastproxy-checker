@@ -134,9 +134,9 @@ After checking, the script will save active proxies in the corresponding output 
 
 ---
 
-## License
+## Warning
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+For Educational Purpose.
 
 ---
 
