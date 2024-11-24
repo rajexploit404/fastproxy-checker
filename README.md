@@ -1,6 +1,3 @@
-
----
-
 # Fast Proxy Checker (Python3)
 
 ## Overview
