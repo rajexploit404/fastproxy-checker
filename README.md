@@ -32,8 +32,8 @@ Make sure you have Python 3 and the necessary libraries installed before running
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/fast-proxy-checker.git
-   cd fast-proxy-checker
+   git clone https://github.com/yourusername/fastproxy-checker.git
+   cd fastproxy-checker
    ```
 
 2. Install the required dependencies using `pip`:
@@ -50,7 +50,7 @@ Make sure you have Python 3 and the necessary libraries installed before running
 To start the proxy checker script, run the following command:
 
 ```bash
-python3 new.py
+python3 main.py
 ```
 
 ### Select Proxy Type
