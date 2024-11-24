@@ -24,11 +24,11 @@ This tool is fast and easy to use, making it ideal for those who need to verify 
   
 ---
 
-## Prerequisites
+## Installations
 
 Make sure you have Python 3 and the necessary libraries installed before running the script.
 
-### Install Dependencies
+### Install
 
 1. Clone this repository to your local machine:
    ```bash
